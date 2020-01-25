@@ -1,7 +1,7 @@
 {
   "name": "my-here-maps-app",
   "version": "1.0.0",
-  "description": "A rout-calculating app using HERE Maps",
+  "description": "A route-calculating app using HERE Maps",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
